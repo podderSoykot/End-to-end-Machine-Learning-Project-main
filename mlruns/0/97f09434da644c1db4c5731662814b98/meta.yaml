@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOPS/End-to-end-Machine-Learning-Project-main/mlruns/0/97f09434da644c1db4c5731662814b98/artifacts
+end_time: 1714717000135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97f09434da644c1db4c5731662814b98
+run_name: intelligent-duck-377
+run_uuid: 97f09434da644c1db4c5731662814b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714716997292
+status: 3
+tags: []
+user_id: User

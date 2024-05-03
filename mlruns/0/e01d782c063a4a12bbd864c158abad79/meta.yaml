@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOPS/End-to-end-Machine-Learning-Project-main/mlruns/0/e01d782c063a4a12bbd864c158abad79/artifacts
+end_time: 1714716700331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e01d782c063a4a12bbd864c158abad79
+run_name: adorable-skink-336
+run_uuid: e01d782c063a4a12bbd864c158abad79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714716697460
+status: 3
+tags: []
+user_id: User
