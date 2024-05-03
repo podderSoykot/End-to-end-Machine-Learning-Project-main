@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOPS/End-to-end-Machine-Learning-Project-main/mlruns/0/602f8b2ed9c949568d9d83e66c4a25d0/artifacts
+end_time: 1714717824227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 602f8b2ed9c949568d9d83e66c4a25d0
+run_name: unique-dolphin-128
+run_uuid: 602f8b2ed9c949568d9d83e66c4a25d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714717821078
+status: 3
+tags: []
+user_id: User
